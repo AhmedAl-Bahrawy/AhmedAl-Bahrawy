@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">I'm Ahmed Al-Bahrawy — "Thunder" 🌩️</h2>
 
 <p align="center">
-  <img src="logo.png" width="150" alt="Ahmed Al-Bahrawy Logo">
+  <img src="https://i.ibb.co/sZ2jN1m/Whats-App-Image-2025-02-14-at-08-12-04-c64b6129.jpg" width="150" alt="Ahmed Al-Bahrawy Logo">
 </p>
 
 <p align="center">
