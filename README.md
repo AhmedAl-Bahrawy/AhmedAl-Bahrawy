@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">🚀 My Awesome Welcome</h1>
+<h2 align="center">From "Thunder"</h1>
 
 <p align="center">
   <img src="logo.png" width="150" alt="Ahmed AL-Bahrawy">
