@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">I'm Ahmed Al-Bahrawy — "Thunder" 🌩️</h2>
 
 <p align="center">
-  <a href="https://ibb.co/sZ2jN1m"><img src="https://i.ibb.co/gx3yfWj/Whats-App-Image-2025-02-14-at-08-12-04-c64b6129.jpg" alt="Whats-App-Image-2025-02-14-at-08-12-04-c64b6129" border="0" width="350"></a>
+  <img src="logo.png" width="150" alt="Ahmed Al-Bahrawy Logo">
 </p>
 
 <p align="center">
@@ -21,14 +21,22 @@ You can click the Preview link to take a look at your changes.
 Hello World!  
 My name is **Ahmed Al-Bahrawy**, but you can call me **"Thunder"** — OK?
 
-- 🧠 I believe **experience is not measured by age**.
-- 🎓 I’m mostly **self-taught**, with strong foundations from:
+- 🧠 I started my coding journey at the age of **13**, learning **game development with Unity**.
+- 🌱 Since then, I've evolved into a **full-stack developer** with a passion for **backend systems**.
+- 🧩 Mostly **self-taught**, with additional training from:
   - Digital Cubs of Egypt Initiative
   - ITI (Information Technology Institute)
   - NTI (National Telecommunication Institute)
-- 🤝 I’ve participated in 8 team presentations — **won Best Team 7 times**.
-- 💼 I've **earned real income** from **freelance web development**.
-- 🧩 I work great under pressure and collaborate effectively in teams.
+- 🥇 Participated in 8 team presentations — **won Best Team 7 times**.
+- 💼 Earned real income from **freelance web development** projects.
+- 🤝 Excellent team player who thrives under pressure.
+
+---
+
+## 🔗 Personal Website
+
+> 🌍 Visit my portfolio:  
+> **[ahmedalbahrawy.vercel.app](https://ahmedalbahrawy.vercel.app/)**
 
 ---
 
@@ -58,10 +66,10 @@ My name is **Ahmed Al-Bahrawy**, but you can call me **"Thunder"** — OK?
 
 ## 🏆 Achievements
 
-- 💰 **Earned money** through **real freelance web development** work.
-- 🥇 Recognized as the **Best Back-End Developer** by my peers.
-- 🧠 Solid understanding of **full-stack development**, especially REST APIs.
-- 🚀 I can build a full web project from **backend to frontend to database** — solo or in a team.
+- 💰 **Earned income** from building **real-world websites and backend systems**
+- 🥇 Recognized by peers as **the best in backend development**
+- 🧠 Strong understanding of **REST APIs**, **ORMs**, and **database design**
+- 💻 Confident in delivering full-stack web applications — solo or in teams
 
 ---
 
