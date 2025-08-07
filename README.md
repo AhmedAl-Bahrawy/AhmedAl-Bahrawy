@@ -17,6 +17,9 @@ Remember, Experience is not measured by age
 </br>
 Various sources but most of them are self learning
 </br>
+I learned soft skills from the digital Cubs of Egypt initiative, ITI, and NTI.
+</br>
+Don't worry, I've worked under pressure and with Teams before.
 # Skills
 
 </br>
