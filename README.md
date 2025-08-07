@@ -21,7 +21,7 @@ I learned soft skills from the digital Cubs of Egypt initiative, ITI, and NTI.
 </br>
 Don't worry, I've worked under pressure and with Teams before.
 </br>
-I participated in about 8 presentations with Teams H, and among them we won the title of best team.
+I participated in about 8 presentations with Teams, 7 of which we won the title of best team.
 
 لا
 # Skills
