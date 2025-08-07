@@ -5,7 +5,18 @@ AhmedAl-Bahrawy/AhmedAl-Bahrawy is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  
+# About
+
+</br>
+
+Hello World :-)
+</br>
+My Name is Ahmed AL-Bahrawy call me "Thunder" OK ?
+</br>
+Remember, Experience is not measured by age
+</br>
+Various sources but most of them are self learning
+</br>
 # Skills
 
 </br>
