@@ -3,14 +3,14 @@ AhmedAl-Bahrawy/AhmedAl-Bahrawy is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">🚀 My Awesome Project</h1>
+<h1 align="center">🚀 My Awesome Welcome</h1>
 
 <p align="center">
-  <img src="logo.png" width="150" alt="Project Logo">
+  <img src="logo.png" width="150" alt="Ahmed AL-Bahrawy">
 </p>
 
 <p align="center">
-  A short project description centered nicely!
+  You may not see Thunder, but it is the scariest.
 </p>
 
 
