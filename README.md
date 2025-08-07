@@ -6,9 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">⚡ Welcome to Thunder's World</h1>
 <h2 align="center">I'm Ahmed Al-Bahrawy — "Thunder" 🌩️</h2>
 
-<p align="center">
-  <img src="logo.png" width="150" alt="Ahmed Al-Bahrawy Logo">
-</p>
+
 
 <p align="center">
   You may not always see Thunder... but it's the one you fear most.
