@@ -22,31 +22,46 @@ Hello World!
 My name is **Ahmed Al-Bahrawy**, but you can call me **"Thunder"** — OK?
 
 - 🧠 I believe **experience is not measured by age**.
-- 🎓 I’m mostly **self-taught**, but I’ve also learned from:
+- 🎓 I’m mostly **self-taught**, with strong foundations from:
   - Digital Cubs of Egypt Initiative
   - ITI (Information Technology Institute)
   - NTI (National Telecommunication Institute)
-- 🧩 I have strong **soft skills** and thrive under pressure.
-- 🏆 I’ve participated in 8 team presentations — and **won Best Team 7 times**!
+- 🤝 I’ve participated in 8 team presentations — **won Best Team 7 times**.
+- 💼 I've **earned real income** from **freelance web development**.
+- 🧩 I work great under pressure and collaborate effectively in teams.
 
 ---
 
-## 🧠 Skills
+## 💻 Tech Stack
 
-### 💪 Experienced In
+### 🔥 Back-End (My Superpower)
 <p>
-  <img src="https://github.com/meemknight/photos/blob/master/python.png" height="50">
-  <img src="https://github.com/meemknight/photos/blob/master/photoshop.png" height="50">
-  <img src="https://github.com/meemknight/photos/blob/master/github.png" height="50">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLAlchemy-FCA121?style=for-the-badge&logo=sqlalchemy&logoColor=black">
 </p>
 
-### 📘 Entry-Level Knowledge
+### 🎨 Front-End (Pretty Good!)
 <p>
-  <img src="https://github.com/meemknight/photos/blob/master/linux.png" height="50">
-  <img src="https://github.com/meemknight/photos/blob/master/windows.png" height="50">
-  <img src="https://github.com/meemknight/photos/blob/master/visualStudio.png" height="50">
-  <img src="https://github.com/meemknight/photos/blob/master/unity.png" height="50">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
+
+### 🗄️ Database (Confident & Efficient)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 💰 **Earned money** through **real freelance web development** work.
+- 🥇 Recognized as the **Best Back-End Developer** by my peers.
+- 🧠 Solid understanding of **full-stack development**, especially REST APIs.
+- 🚀 I can build a full web project from **backend to frontend to database** — solo or in a team.
 
 ---
 
