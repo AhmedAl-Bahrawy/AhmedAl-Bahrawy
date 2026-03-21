@@ -6,8 +6,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">⚡ Welcome to Thunder's World</h1>
 <h2 align="center">I'm Ahmed Al-Bahrawy — "Thunder" 🌩️</h2>
 
-
-
 <p align="center">
   You may not always see Thunder... but it's the one you fear most.
 </p>
@@ -45,6 +43,8 @@ My name is **Ahmed Al-Bahrawy**, but you can call me **"Thunder"** — OK?
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/SQLAlchemy-FCA121?style=for-the-badge&logo=sqlalchemy&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </p>
 
 ### 🎨 Front-End (Pretty Good!)
@@ -53,11 +53,23 @@ My name is **Ahmed Al-Bahrawy**, but you can call me **"Thunder"** — OK?
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
 ### 🗄️ Database (Confident & Efficient)
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+### ⚙️ Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio&logoColor=white">
+  <img src="https://img.shields.io/badge/Database_Migrations-FF6C37?style=for-the-badge&logo=flyway&logoColor=white">
+  <img src="https://img.shields.io/badge/Deployments-0A66C2?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ---
